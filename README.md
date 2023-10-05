@@ -16,4 +16,8 @@ Change the assigned CRS Projection to ESRI:102007.
 
 Right click the cb_2022_us_state_500k source. Click on the filter section, and then select "Name". Click the equal sign, and then click on the sample button. Once done, select "Hawaii". It will produce something like "NAME" = "Hawaii".
 
+![map](QuickOSM.png)
+
+Afterwards, we will use the QuickOSM to create features. To access the QuickOSM tool, click on the Vector section.
+
 The source that is also used will be the Hawaii Geoportal. To access the link, click here: https://geoportal.hawaii.gov/
