@@ -24,3 +24,5 @@ Afterwards, use the QuickOSM to create features. To access the QuickOSM tool, cl
 Export the layers when it is ready to do so. Save as GeoPackage, and change the CRS to ESRI:102007.
 
 The source that is also used will be the Hawaii Geoportal. To access the link, click here: https://geoportal.hawaii.gov/
+
+Let's say I want to find information about lava. Select hazards, and then download the maps, and select the following: Volcano Lava Flow Hazard Zones (Buffer), Volcano Lava Flow Hazard Zones, and Volcano Lava Flow Hazard Zones (Line). Download as a GeoJSON file.
