@@ -26,3 +26,6 @@ Export the layers when it is ready to do so. Save as GeoPackage, and change the 
 The source that is also used will be the Hawaii Geoportal. To access the link, click here: https://geoportal.hawaii.gov/
 
 Let's say I want to find information about lava. Select hazards, and then download the maps, and select the following: Volcano Lava Flow Hazard Zones (Buffer), Volcano Lava Flow Hazard Zones, and Volcano Lava Flow Hazard Zones (Line). Download as a GeoJSON file.
+
+![map](Join_attributes_by_location_summary.png)
+Next up, a joined layer will be created. To do that, select "Join attributes by layer (summary)". It will produce something like this (see above). Once clicked, it will produce something like this. In "join to features in", select the 2020_Census_Tracts file, which is a ESRI:102007 projection. In "by comparing to", select the volcano_lava_flow_hazard_zones file, which is also a ESRI:102007 projection. The joined layer will be saved as a "geopackage", and then, click run.
