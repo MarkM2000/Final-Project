@@ -8,7 +8,7 @@ Collaborator: Instructor GitHub username jfobrycki
 
 # Background
 
-For this project, I will be creating a final map that uses the map of Hawaii. The Big Island will be the main focus of this project. This map will focus on the volcano lava flow hazard locations which will involve the roads in the area.
+For this project, I will be creating a final map that uses the map of Hawaii. The Big Island will be the main focus of this project. This map will focus on the volcano lava flow hazard locations which will involve the roads in the area. It would showcase which area has the most hazard and how it would affect the roads.
 
 # How To Create The Map
 These are the instructions on how this map was created:
@@ -23,7 +23,7 @@ Right click the cb_2022_us_state_500k source. Click on the filter section, and t
 
 ![map](QuickOSM.png)
 
-Afterwards, use the QuickOSM to create features. To access the QuickOSM tool, click on the Vector section. After clicking on the QuickOSM tool, click on "quick query". After selecting the tools to generate, change it to "Canvas Extent". Then, click "Run Query" and it will then appear on the layers section and the map itself.
+Afterwards, use the QuickOSM to create features. To access the QuickOSM tool, click on the Vector section. After clicking on the QuickOSM tool, click on "quick query".  In this case, "Highways/Streets" was used. After selecting the tools to generate, change it to "Canvas Extent". Then, click "Run Query" and it will then appear on the layers section and the map itself.
 
 ![map](export_layers.png)
 Export the layers when it is ready to do so. Save as GeoPackage, and change the CRS to ESRI:102007.
