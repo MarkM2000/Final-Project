@@ -6,6 +6,10 @@ Project Title:
 
 Collaborator: Instructor GitHub username jfobrycki
 
+# Background
+
+For this project, I will be creating a final map that uses the map of Hawaii. The Big Island will be the main focus of this project. This map will focus on the volcano hazard locations in road. 
+
 # How To Create The Map
 These are the instructions on how this map was created:
 
