@@ -6,6 +6,7 @@ Project Title:
 
 Collaborator: Instructor GitHub username jfobrycki
 
+# How To Create The Map
 These are the instructions on how this map was created:
 
 ![map](crs_projection.png)
