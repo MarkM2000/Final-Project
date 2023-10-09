@@ -2,7 +2,7 @@
 
 This is my final project for MAP 671.
 
-Project Title:
+Project Title: Lava Flow Hazard Of Hawaii
 
 Collaborator: Instructor GitHub username jfobrycki
 
