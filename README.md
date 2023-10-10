@@ -4,8 +4,6 @@ This is my final project for MAP 671.
 
 Project Title: Lava Flow Hazard Of Hawaii
 
-Collaborator: Instructor GitHub username jfobrycki
-
 # Background
 
 For this project, I will be creating a final map that uses the map of Hawaii. The Big Island will be the main focus of this project. This map will focus on the volcano lava flow hazard locations which will involve the roads in the area. It would showcase which area has the most hazard and how it would affect the roads.
