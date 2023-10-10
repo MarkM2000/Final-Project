@@ -38,5 +38,8 @@ Next up, a joined layer will be created. To do that, select "Join attributes by 
 
 On the joined layer, select Properties. Go to the Symbology section and add vhzones_id to the value section. Then, change the feature to "Addition". After that, select the color ramp and enter whichever gradient color works. The mode is on Equal Count (Quantile). Then, when ready, click "classify". It should give a gradient color pattern.
 
+# Sources
+https://geoportal.hawaii.gov/ (Source used to download the maps)
+
 # Conclusion
 Based on the map, the area with the most lava hazard is
