@@ -13,7 +13,7 @@ For this project, I will be creating a final map that uses the map of Hawaii. Th
 # How To Create The Map
 These are the instructions on how this map was created:
 
-![map](screenshots/crs_projection.png)
+![map](Screenshots/crs_projection.png)
 
 Change the assigned CRS Projection to ESRI:102007. 
 
