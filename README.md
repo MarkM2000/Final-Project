@@ -38,7 +38,7 @@ On the joined layer, select Properties. Go to the Symbology section and add vhzo
 
 # Sources
 Below is a list of sources that I have used for this project.
-* https://geoportal.hawaii.gov/ (Source used to download the maps)
+* https://geoportal.hawaii.gov/ (Source used to download the lava hazard flow and police stations)
 * https://pubs.usgs.gov/mf/1992/2193/mf2193.pdf
 * https://pubs.usgs.gov/mf/1992/2193/
 * https://www.usgs.gov/observatories/hawaiian-volcano-observatory/lava-flow-hazards-zones-and-flow-forecast-methods-island
