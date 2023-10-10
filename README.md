@@ -34,11 +34,13 @@ Let's say I want to find information about lava. Select hazards, and then downlo
 Next up, a joined layer will be created. To do that, select "Join attributes by layer (summary)". It will produce something like this (see above). Once clicked, it will produce something like this. In "join to features in", select the 2020_Census_Tracts file, which is a ESRI:102007 projection. In "by comparing to", select the volcano_lava_flow_hazard_zones file, which is also a ESRI:102007 projection. The joined layer will be saved as a "geopackage", and then, click run.
 
 
-On the joined layer, select Properties. Go to the Symbology section and add vhzones_id to the value section. Then, change the feature to "Addition". After that, select the color ramp and enter whichever gradient color works. The mode is on Equal Count (Quantile). Then, when ready, click "classify". It should give a gradient color pattern.
+On the joined layer, select Properties. Go to the Symbology section and add vhzones_id to the value section. Then, change the feature to "Addition". Change the classes number to 18. After that, select the color ramp and enter whichever gradient color works. The mode is on Equal Count (Quantile). Then, when ready, click "classify". It should give a gradient color pattern.
 
 # Sources
 Below is a list of sources that I have used for this project.
 * https://geoportal.hawaii.gov/ (Source used to download the lava hazard flow and police stations)
+
+Those three sources are very similar to how the map was done and it provides information related to the lava flow hazard.
 * https://pubs.usgs.gov/mf/1992/2193/mf2193.pdf
 * https://pubs.usgs.gov/mf/1992/2193/
 * https://www.usgs.gov/observatories/hawaiian-volcano-observatory/lava-flow-hazards-zones-and-flow-forecast-methods-island
@@ -46,4 +48,4 @@ Below is a list of sources that I have used for this project.
 # Final Map
 
 # Conclusion
-Based on the map, the area with the most lava hazard is
+Based on the map, the area with the most lava flow hazard is. The area with the least lava flow hazard is
