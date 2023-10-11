@@ -28,7 +28,9 @@ Export the layers when it is ready to do so. Save as GeoPackage, and change the 
 
 The source that is also used will be the Hawaii Geoportal. To access the link, click here: https://geoportal.hawaii.gov/
 
-Let's say I want to find information about lava. Select hazards, and then download the maps, and select the following: Volcano Lava Flow Hazard Zones (Buffer), Volcano Lava Flow Hazard Zones, and Volcano Lava Flow Hazard Zones (Line). Download as a GeoJSON file. You can click on this link to find the three maps in a easier fashion: https://geoportal.hawaii.gov/datasets/HiStateGIS::volcano-lava-flow-hazard-zones/explore
+Let's say I want to find information about lava. Select hazards, and then download the maps, and select the following: 2020 Census Tracts, Volcano Lava Flow Hazard Zones (Buffer), Volcano Lava Flow Hazard Zones, and Volcano Lava Flow Hazard Zones (Line). Download as a GeoJSON file. You can click on this link to find the three maps in a easier fashion: https://geoportal.hawaii.gov/datasets/HiStateGIS::volcano-lava-flow-hazard-zones/explore
+
+Now if I were to add police stations to the Big sland, I would need to select this file link: https://geoportal.hawaii.gov/datasets/police-stations-island-of-hawaii/explore
 
 ![map](Screenshots/Join_attributes_by_location_summary.png)
 Next up, a joined layer will be created. To do that, select "Join attributes by layer (summary)". It will produce something like this (see above). Once clicked, it will produce something like this. In "join to features in", select the 2020_Census_Tracts file, which is a ESRI:102007 projection. In "by comparing to", select the volcano_lava_flow_hazard_zones file, which is also a ESRI:102007 projection. The joined layer will be saved as a "geopackage", and then, click run.
@@ -38,7 +40,7 @@ On the joined layer, select Properties. Go to the Symbology section and add vhzo
 
 # Sources
 Below is a list of sources that I have used for this project.
-* https://geoportal.hawaii.gov/ (Source used to download the lava hazard flow and police stations)
+* https://geoportal.hawaii.gov/ (Source used to download the lava hazard flow, census tract, and police stations)
 
 Those three sources below are very similar to how the map was done and it provides information related to the lava flow hazard.
 * https://pubs.usgs.gov/mf/1992/2193/mf2193.pdf
