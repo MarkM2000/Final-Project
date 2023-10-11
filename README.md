@@ -50,4 +50,4 @@ Those three sources below are very similar to how the map was done and it provid
 # Final Map
 
 # Conclusion
-Based on the map, the area with the most lava flow hazard is. The area with the least lava flow hazard is
+Based on the map, the area with the most lava flow hazard are the areas in the Puna and Kau districts. These two districts are where the Hawaiʻi Volcanoes National Park is located, which makes lava flow hazards way more common in those areas. The area with the least lava flow hazard is 
