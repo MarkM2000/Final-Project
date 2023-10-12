@@ -50,4 +50,4 @@ Those three sources below are very similar to how the map was done and it provid
 # Final Map
 
 # Conclusion
-Based on the map, the area with the most lava flow hazard is in the Kau district. The Kau district where is where the Hawaiʻi Volcanoes National Park is located, making lava flow hazards way more common in this area. Zone 1 is located in the district, which is where lava activity is more common. The area with the least amount of lava flow hazard is Zone 9, which includes the Kohala district (North and South Kohala). The closest police station to the area affected by lava flows the most is the Naalehu Station.
+Based on the map, the area with the most lava flow hazard is in the Kau district. The Kau district where is where the Hawaiʻi Volcanoes National Park is located, making lava flow hazards way more common in this area. Zone 1 is located in the district, which is where lava activity is more common. The area with the least amount of lava flow hazard is Zone 9, which includes the Kohala district (North and South Kohala). The closest police stations to the areas and zones affected by lava flows the most are the Naalehu Station and Pahoa Station.
