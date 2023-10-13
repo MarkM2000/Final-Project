@@ -41,6 +41,7 @@ On the joined layer, select Properties. Go to the Symbology section and add vhzo
 # Sources
 Below is a list of sources that I have used for this project.
 * https://geoportal.hawaii.gov/ (Source used to download the lava hazard flow, census tract, and police stations)
+* QuickOSM (the source I used to add the roads)
 
 Those three sources below are very similar to how the map was done and it provides information related to the lava flow hazard.
 * https://pubs.usgs.gov/mf/1992/2193/mf2193.pdf
