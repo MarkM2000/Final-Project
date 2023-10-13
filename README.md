@@ -38,6 +38,9 @@ Next up, a joined layer will be created. To do that, select "Join attributes by 
 ![map](Screenshots/symbology.png)
 On the joined layer, select Properties. Go to the Symbology section and add vhzones_id to the value section. Then, change the feature to "Addition". Change the classes number to 18. After that, select the color ramp and enter whichever gradient color works. The mode is on Equal Count (Quantile). Then, when ready, click "classify". It should give a gradient color pattern.
 
+# Map layout
+To create a map layout, click on New Print Layout. In the map layout, rename "big_island_highway_lines" to "Highways" and the joined layer to "Hazard Zone". When the file is done, save it as a 600 dpi or 1200 dpi.
+
 # Sources
 Below is a list of sources that I have used for this project.
 * https://geoportal.hawaii.gov/ (Source used to download the lava hazard flow, census tract, and police stations)
