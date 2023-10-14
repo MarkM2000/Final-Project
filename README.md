@@ -4,9 +4,9 @@ This is my final project for MAP 671.
 
 Project Title: Lava Flow Hazard Of Hawaii
 
-# Project Summary
+# Purpose
 
-For this project, I will be creating a final map that uses the map of Hawaii. The Big Island will be the main focus of this project. This map will focus on the volcano lava flow hazard locations which will involve the roads in the area. It would showcase which area has the most hazard and how it would affect the roads.
+The purpose of my project will be to create a final map that uses the map of Hawaii. The Big Island will be the main focus of this project. This map will focus on the volcano lava flow hazard locations which will involve the roads in the area. It would showcase which area has the most hazard and how it would affect the roads.
 
 # How To Create The Map
 These are the instructions on how this map was created:
@@ -54,4 +54,4 @@ Those three sources below are very similar to how the map was done and it provid
 # Final Map
 
 # Conclusion
-Based on the map, the area with the most lava flow hazard is in the Kau district. The Kau district where is where the Hawaiʻi Volcanoes National Park is located, making lava flow hazards way more common in this area. Zone 1 is located in the district, which is where lava activity is more common. On the joined layer itself, Zone 1 ranges from 9.5 to 10.44, and from 12.33 to 13.28. The area with the least amount of lava flow hazard is the Kohala district (North and South Kohala), which is the area where Zone 9 is located. The closest police stations to the areas and zones affected by lava flows the most are the Naalehu Station and Pahoa Station.
+Based on my map, the area in Big Island that has the most lava flow hazard is in the Kau district. The Kau district is where the Hawaiʻi Volcanoes National Park is located, making lava flow hazards way more common in this area. Zone 1 is located in the district, which is where lava activity is more common. On the joined layer itself, Zone 1 ranges from 9.5 to 10.44, and from 12.33 to 13.28. The area with the least amount of lava flow hazard is the Kohala district (North and South Kohala), which is the area where Zone 9 is located. The closest police stations to the areas and zones affected by lava flows the most are the Naalehu Station and Pahoa Station.
