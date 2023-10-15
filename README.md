@@ -63,5 +63,8 @@ Those three sources below are very similar to how the map was done and it provid
 
 # Final Map
 This is what my final map looks like.
+
+For the link to my final map, click here. [final map online](http://127.0.0.1:5500/index.html)
+
 # Conclusion
 Based on my map, the area in Big Island that has the most lava flow hazard is in the Kau district. The Kau district is where the Hawaiʻi Volcanoes National Park is located, making lava flow hazards way more common in this area. Zone 1 (which has a vhzones_id of 10) is located in the district, which is where lava activity is more common. The area with the least amount of lava flow hazard is the Kohala district (North and South Kohala), which is the area where Zone 9 is located. The closest police stations to the areas and zones affected by lava flows the most are the Naalehu Station and Pahoa Station.
