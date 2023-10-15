@@ -38,16 +38,18 @@ Next up, a joined layer will be created. To do that, select "Join attributes by 
 ![map](Screenshots/symbology.png)
 On the joined layer, select Properties. Go to the Symbology section and add vhzones_id to the value section. Then, change the feature to "Addition". Change the classes number to 18. After that, select the color ramp and enter whichever gradient color works. The mode is on Equal Count (Quantile). Then, when ready, click "classify". It should give a gradient color pattern.
 
-# Map layout
+# Creating the map layout
 ![map](Screenshots/Final_Project_Map_Layout_progress.png)
 To create a map layout, click on New Print Layout. The layout could be titled as something like Final Project Map Layout. The initial layout will look something like this above.
 
 ![map](Screenshots/width_change.png)
 Rename "volcano_lava_flow_hazard_zones" to "Hazard Zone Boundary" but the best thing to do is to make the line more bigger. Change the width to something bigger like "1.46000" or whichever works best.
 
-On the legend file, try renaming other stuff as well. Rename "Police_Stations_-_Island_of_Hawaii" to "Police Stations" and "big_island_highway_lines" to "Highways". Also, rename the joined layer to something like "Hazard Zone". For "big_island_highway_polygons", rename it to "General Built Environment". 
+On the legend file, try renaming other stuff as well. Rename "Police_Stations_-_Island_of_Hawaii" to "Police Stations" and "big_island_highway_lines" to "Highways". Also, rename the joined layer to something like "Hazard Zone".
 
 For the "Hazard Zone", which was previously the joined layer, also change the numbers to it's vhzones_id numbers.
+
+Also, remove the census (also called the 2020_Census_Tracts), volcano_lava_flow_hazard_zones, buffer zone, big_island_highway_polygons ("General Built Environment") and map_hawaii as these layers are no longer needed for the map layout. 
 
 # Sources
 Below is a list of sources that I have used for this project.
