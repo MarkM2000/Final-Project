@@ -62,6 +62,7 @@ Those three sources below are very similar to how the map was done and it provid
 * https://www.usgs.gov/observatories/hawaiian-volcano-observatory/lava-flow-hazards-zones-and-flow-forecast-methods-island
 
 # Final Map
+![map](Screenshots/final_project_map.jpg)
 This is what my final map looks like.
 
 To see the map as a link, [click here](http://127.0.0.1:5500/index.html)
