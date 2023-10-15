@@ -39,7 +39,8 @@ Next up, a joined layer will be created. To do that, select "Join attributes by 
 On the joined layer, select Properties. Go to the Symbology section and add vhzones_id to the value section. Then, change the feature to "Addition". Change the classes number to 18. After that, select the color ramp and enter whichever gradient color works. The mode is on Equal Count (Quantile). Then, when ready, click "classify". It should give a gradient color pattern.
 
 # Map layout
-To create a map layout, click on New Print Layout. In the map layout, rename "big_island_highway_lines" to "Highways" and the joined layer to "Hazard Zone". When the file is done, save it as a 600 dpi or 1200 dpi.
+![map](Screenshots/Final_Project_Map_Layout_progress.png)
+To create a map layout, click on New Print Layout. The layout could be titled as something like Final Project Map Layout. The initial layout will look something like this above.
 
 # Sources
 Below is a list of sources that I have used for this project.
