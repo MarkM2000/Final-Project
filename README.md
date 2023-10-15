@@ -42,7 +42,7 @@ On the joined layer, select Properties. Go to the Symbology section and add vhzo
 ![map](Screenshots/Final_Project_Map_Layout_progress.png)
 To create a map layout, click on New Print Layout. The layout could be titled as something like Final Project Map Layout. The initial layout will look something like this above.
 
-On the legend file, try renaming stuff as well. Rename "Police_Stations_-_Island_of_Hawaii" to "Police Stations" and "big_island_highway_lines" to "Highways".
+On the legend file, try renaming stuff as well. Rename "Police_Stations_-_Island_of_Hawaii" to "Police Stations", "volcano_lava_flow_hazard_zones" to "Hazard Zone Boundary" and "big_island_highway_lines" to "Highways".
 
 # Sources
 Below is a list of sources that I have used for this project.
