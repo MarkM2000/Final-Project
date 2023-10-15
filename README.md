@@ -47,7 +47,7 @@ Rename "volcano_lava_flow_hazard_zones" to "Hazard Zone Boundary" but the best t
 
 On the legend file, try renaming other stuff as well. Rename "Police_Stations_-_Island_of_Hawaii" to "Police Stations" and "big_island_highway_lines" to "Highways". Also, rename the joined layer to something like "Hazard Zone". For "big_island_highway_polygons", rename it to "General Built Environment". 
 
-For the "Hazard Zone", which was previously the joined layer, also change the numbers to it's 
+For the "Hazard Zone", which was previously the joined layer, also change the numbers to it's vhzones_id numbers.
 
 # Sources
 Below is a list of sources that I have used for this project.
